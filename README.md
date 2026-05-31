@@ -102,8 +102,8 @@ flutter run
 
 ## 📦 Downloads & Walkthroughs
 
-* 📱 **[APK Download Link](https://github.com/your-username/startup-evaluator-ai/releases/download/v1.0.0/app-release.apk)** *(Placeholder - Replace with actual build artifact)*
-* 🎥 **[Video Walkthrough YouTube Link](https://youtube.com/watch?v=placeholder)** *(Placeholder - Replace with actual screen recording demo)*
+* 📱 **[APK Download Link](https://drive.google.com/file/d/1KlGDMYiFaIcPw6jzvW7w1DWyw2z7_YLY/view?usp=sharing)**
+* 🎥 **[Video Walkthrough YouTube Link](https://www.loom.com/share/e68630629de9457f925ad1a9fe656166)** 
 
 ---
 
